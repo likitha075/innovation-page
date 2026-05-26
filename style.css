@@ -1,0 +1,14 @@
+#features{
+    display:flex;
+    gap:20px;
+    padding:30px;
+}
+
+.card{
+    border :1px solid#ddd;
+    padding :20px;
+    border-radius:10px;
+}
+.card:hover{
+    transform:translateY(-5px);
+}
